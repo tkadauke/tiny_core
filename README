@@ -1,0 +1,9 @@
+tiny_core
+
+Common parts for building Tiny Applications (TM)
+
+This gem is just starting out. I'll be moving reused parts from my open source applications in here.
+
+Also, this gem is likely to become very big and be broken up in several small gems in the future.
+
+Use at your own risk.
