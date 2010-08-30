@@ -1,0 +1,10 @@
+module <%= class_name %>
+  module Version
+    include TinyCore::Build
+    extend self
+    
+    def version
+      '0.0.1'
+    end
+  end
+end
